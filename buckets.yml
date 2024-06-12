@@ -6,5 +6,5 @@ ui:
     - buckets.js
 settings:
   meanAmount:
-    displayName: Mean amount of your loads ['low' (2 mL), 'regular' (3.5 mL), 'high' (5mL)]
+    displayName: Mean amount of your loads. 'low' (2 mL), 'regular' (3.5 mL) or 'high' (5 mL). Defaults to 'regular'.
     type: STRING
