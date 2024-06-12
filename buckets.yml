@@ -1,0 +1,10 @@
+name: Buckets
+description: Adds to the statistics the amount of juice you produced with Stash
+version: 1.0
+ui:
+  javascript:
+    - buckets.js
+settings:
+  meanAmount:
+    displayName: Mean amount of your loads ['low' (2 mL), 'regular' (3.5 mL), 'high' (5mL)]
+    type: STRING
